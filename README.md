@@ -1,2 +1,2 @@
 # nivelamento-javascript
-Mobile application development lista de exercícios 01.
+Mobile Application Development - Lista de Exercícios
